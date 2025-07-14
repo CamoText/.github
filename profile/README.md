@@ -12,7 +12,7 @@ CamoText is a bundled python application-- no dependencies or separate installat
 
 Hashing is customizable and extensible by users, is entirely performed on the user's machine, and uses effectively irreversible 32 character sha256 encryption.
 
-Versions 0.1.0 and later come with a bundled CLI functionality for batched processing, automation/agent processes, and more!
+Try CamoTextCLI for scripted processing, automation/agent processes, and more!
 
 We also built [CamoPhoto](https://camotext.ai/camophoto), a free, local, in-browser metadata remover for photos.
 
