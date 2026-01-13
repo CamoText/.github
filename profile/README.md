@@ -14,6 +14,8 @@ Try CamoTextCLI for scripted processing, automation/agent processes, and more!
 
 Our software portfolio also includes:
 
+- [CamoVoice](https://camovoice.com/): fully offline, private speech-to-text desktop application
+
 - [CamoSign](https://camosign.io/): private by design e-signatures
 
 - [CamoPhoto](https://camotext.ai/camophoto): free, local, in-browser metadata remover for photos
